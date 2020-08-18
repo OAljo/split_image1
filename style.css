@@ -41,7 +41,7 @@ body{
     transition-delay: 0.9s;
 }
 .card:hover span{
-    transform:translateY(-100%);
+    transform:translateX(-100%);
     transition: 1s;
 }
 .card:hover span:nth-child(1){
